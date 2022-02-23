@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adrian Vinicio Campos Leon",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
